@@ -9,7 +9,7 @@ The **🔤 Words With Friends Cheat** is a word-finding assistant designed to he
 
 <div align="center">
 
-[![Download Words With Friends Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/words-with-friends-cheat)
+[![Download Words With Friends Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/words-with-friends-cheat)
 
 </div>
 
@@ -108,7 +108,7 @@ You need a word-finding assistant. Fast. Accurate. Easy to use.
 6. **🔠 Enter Your Letters** — type your tile letters
 7. **🔎 Click Find Words** — see all possible words
 
-[![Download Words With Friends Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/words-with-friends-cheat)
+[![Download Words With Friends Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/words-with-friends-cheat)
 
 ### Finding Words from Letters
 
@@ -199,7 +199,7 @@ Find the best words and improve your game. **Words With Friends Cheat** helps yo
 
 <div align="center">
 
-[![Download Words With Friends Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/words-with-friends-cheat)
+[![Download Words With Friends Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/words-with-friends-cheat)
 
 **Version 4.6.1** — Word finder helper. Free forever.
 
